@@ -1,1 +1,0 @@
-const a=console.log.bind(console);a("Hello World!");
